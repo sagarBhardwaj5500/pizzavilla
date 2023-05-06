@@ -1,6 +1,6 @@
 const { MongoClient } = require("mongodb");
 
-const url = `mongodb+srv://sachin006:sachin006@cluster0.hel6j.mongodb.net/test?retryWrites=true&w=majority`;
+const url = `paste your db url;
 
 const client = new MongoClient(url);
 
